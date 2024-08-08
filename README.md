@@ -6,3 +6,7 @@ Loyalty Support Services (LSS) is Jordan’s largest provider of life support se
 This app is to handle Document Management System (DMS) as portals for the LSS company process. Also, this app handles the multi-escalation level, creating tickets, assigning tickets, adding notes, and editing tickets in general.
 
 This app is a private app and cannot be accessed by any non-employment LSS user.
+
+
+Link on Google Play Store:
+  https://play.google.com/store/apps/details?id=com.sirocomena.lssappportal&hl=en
